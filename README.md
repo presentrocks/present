@@ -1,6 +1,6 @@
-angular-registration-login-example
+Present v1  
 ==============================
 
-AngularJS User Registration and Login Example
+We're allowing early adopters in the community the chance to reserve @handles.
 
-To see a demo and further details go to http://jasonwatmore.com/post/2015/03/10/AngularJS-User-Registration-and-Login-Example.aspx
+<3
